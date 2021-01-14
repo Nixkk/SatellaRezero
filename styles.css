@@ -1,0 +1,42 @@
+.main-header {
+    color: aliceblue;
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+    position: relative;
+    left: 100px;
+    top: 30;
+    stroke: black;
+}
+
+img.satella-img {
+    position: relative;
+    bottom: 15px;
+    border-color: aliceblue;
+    border-radius: 5px;
+    
+}
+
+.line {
+    position: relative;
+    bottom: 20px;
+    
+}
+
+.p1 {
+    color:aliceblue;
+    font-family: sans-serif
+}
+
+.satella-header2 {
+    position: relative;
+    font-size: 50px;
+    left: 500px;
+    top: 100px;
+    color:aliceblue
+}
+
+.p2 {
+    color:aliceblue;
+    font-family: sans-serif
+}
+
